@@ -1,1 +1,6 @@
+1.	B. Ralph, “Method of making decorative articles,” Apr. 14, 1925 Accessed: Jun. 19, 2024. [Online]. Available: https://patents.google.com/patent/US1533300A/en
+2.	A. Bekker, J. C. Verlinden, and G. Galimberti, “Challenges in assessing the sustainability of wire+ arc additive manufacturing for large structures,” 2016.
+3.	“WAAM_sustainability_ref/list.txt.” Accessed: Jun. 24, 2024. [Online]. Available: https://github.com/syedibnmohsin/WAAM_sustainability_ref/edit/main/list.txt
+4.	ISO/ASTM 52910: 2018 (E), “Additive manufacturing—Design—Requirements, guide-lines and recommendations,” 2018.
+5.	T. Vaneker, A. Bernard, G. Moroni, I. Gibson, and Y. Zhang, “Design for additive man-ufacturing: Framework and methodology,” CIRP Ann., vol. 69, no. 2, pp. 578–599, 2020.
 
